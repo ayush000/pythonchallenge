@@ -1,0 +1,9 @@
+status: 200
+date: Sat, 22 Aug 2015 06:43:39 GMT
+connection: close
+content-location: http://www.pythonchallenge.com/pc/def/linkedlist.php?nothing=57004
+server: lighttpd/1.4.28
+content-type: text/html
+x-powered-by: PHP/5.3.3-7+squeeze19
+
+and the next nothing is 64196
